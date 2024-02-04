@@ -1,6 +1,6 @@
 # python-assignment
 
-# question
+# question and approach
 https://leetcode.com/problems/surrounded-regions/solutions/3400240/python-simple-and-clean-beats-99-89/
 
 After looking at the question, the following approach was taken:-
